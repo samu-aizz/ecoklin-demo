@@ -1,0 +1,6 @@
+{
+  "name": "CicloPlanta",
+  "description": "Control operativo de planta de reciclaje: ingreso de bolsones, separación, enfardado, inventario diario e incidencias en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
